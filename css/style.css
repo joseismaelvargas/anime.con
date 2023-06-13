@@ -1,0 +1,107 @@
+.navbar{
+    padding: 4rem;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,0) 0%, rgba(5,3,56,1) 0%, rgba(41,34,195,0.8015581232492998) 88%);
+    
+     
+
+}
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(16,10,83,1) 49%, rgba(3,1,50,0.989233193277311) 100%);
+  
+    
+     
+
+}
+
+.navbar-collapse{
+    text-align: center;
+    align-items: center;
+    justify-content: flex-end;
+    font-size: 20px;
+    font-family: sans-serif;
+    
+  
+
+}
+.button{
+    color: white;
+    background-color: aliceblue
+}
+.navbar-toggler{
+color: white;
+}
+#link{  
+    color: white;
+
+}
+
+
+
+
+/* secion heroo */
+section{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.hero-titulo{
+    font-family: 'Rowdies', cursive;
+    font-size: 50px;
+    padding: 15px 0px;
+    color: white;
+}
+  .hero-text{
+    color: white;
+  }
+.br{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(16,10,83,1) 49%, rgba(3,1,50,0.989233193277311) 100%);
+  
+    
+     
+
+}
+ 
+
+  
+   
+  
+ 
+
+
+.hero{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(16,10,83,1) 49%, rgba(3,1,50,0.989233193277311) 100%);
+    min-height: 200px;
+    text-align: center;
+}
+h1{
+  
+}
+h2{
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+   
+}
+/* acordion */
+.accordion-body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(16,10,83,1) 49%, rgba(3,1,50,0.989233193277311) 100%);
+}
+.accordion-header{
+    background-color: yellow;
+}
+#collapseTwo{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(16,10,83,1) 49%, rgba(3,1,50,0.989233193277311
+}
+@media  screen and (max-width:562px) {
+    .navbar{
+        color: black;
+    }
+    
+}
